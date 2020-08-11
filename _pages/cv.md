@@ -33,7 +33,7 @@ Work
   * Shenzhen Zhixin Medical Biotechnology Co., Ltd, Shenzhen, China.
   * Department: Research and Development department
   * Group: Hand held endoscope
-  * Duties included: Qt application development.
+  * Duties included: Embedded Qt application development.
   * Supervisor: Mr. Wengang Wang
 
 Open Source Project
