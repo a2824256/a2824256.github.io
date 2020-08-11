@@ -20,7 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work experience
+Work
 ======
 * Spring 2020 ~ Now: Research Assistant
   * AIRS([Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en/)), Shenzhen, China.
@@ -31,17 +31,22 @@ Work experience
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
   * Shenzhen Zhixin Medical Biotechnology Co., Ltd, Shenzhen, China.
   * Department: Research and Development department
-  * Duties included: Qt application development.
+  * Duties included: Qt application development of hand held endoscope.
   * Supervisor: Mr. Wengang Wang
 
-Project
+Open Source Project
 ======
-* 
+* LabelOwl - Developing...
+  * Introduction: A multi person online data annotation system.
+  * Github:
+    * [LabelOwl](https://github.com/a2824256/LabelOwl)
+  * Works: This project uses the web front end Vue.js Framework, the server-side API is developed using PHP framework workman. The JSON format of the annotation file is consistent with labelme
 * Convolutional Neural Network Accelerator - B.S. Graduation Project
+  * Introduction: Implementation of classification network LeNet-5 using FPGA.
   * Github:
       * [HLS-LetNet](https://github.com/a2824256/HLS-LeNet)
       * [LeNet-Weights-Exporter](https://github.com/a2824256/LeNet-Weights-Exporter)
-  * Works: Implementation of LeNet-5 Neural Network computing with C++ in vivado HLS. Then the connection structure of Xilinx zynq 7035 SOC is designed by Xilinx Vivado. Finally, use Soc's ARM(PS) module to control FPGA(PL) through block-level control protocol. The test images and weights are stored in the SD card. ARM reads and stores them in the public BRAM of Soc. When the FPGA starts, it first reads data from the public BRAM to the RAM inside the FPGA, and then starts the network for prediction.
+  * Works: Implementation of LeNet-5 Neural Network computing with C++ in vivado HLS. Then the connection structure of Xilinx ZYNQ 7035 SOC is designed by Xilinx Vivado. Finally, use Soc's ARM(PS) module to control FPGA(PL) through block-level control protocol. The test images and weights are stored in the SD card. ARM reads and stores them in the public BRAM of Soc. When the FPGA starts, it first reads data from the public BRAM to the RAM inside the FPGA, and then starts the network for prediction.
   
   
 Skills
