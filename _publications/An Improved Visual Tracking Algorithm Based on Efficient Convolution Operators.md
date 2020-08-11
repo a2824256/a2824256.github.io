@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "An Improved Visual Tracking Algorithm Based on Efficient Convolution Operators"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/An Improved Visual Tracking Algorithm Based on Efficient Convolution Operators
+excerpt: 'Using FCN to replace the CNN part of eco to improve the segmentation ability.'
+date: 2018-11-10
+venue: 'ICCC'
+paperurl: 'https://ieeexplore.ieee.org/document/8780957'
+citation: 'Yi, Liang. (2018). &quot;An Improved Visual Tracking Algorithm Based on Efficient Convolution Operators.&quot; <i>2018 IEEE 4th International Conference on Computer and Communications (ICCC)</i>. '
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Effcient Convolution Operators (ECO) is one of the most outstanding visual tracking algorithms in recent years, it combines two methods of Deep Learning and Discriminative Correlation Filter (DCF), and has excellent performance in VOT2016, UAV123, OTB-2015 and TempleColor. The paper propose integrating ECO and Fully Convolutional Networks (FCN) to achieve state-of-the-art segmentation for ECO. In our experiments, the original CNN model of ECO is replaced by the FCN model. Compared with the traditional Convolutional Neural Networks (CNN), the FCN has higher accuracy of segmentation and can input any size of image. We perform comprehensive experiments which obtained 0.653 area under curve (AUC) and 0.861 precision plot (DP) on OTB-2013 dataset.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/8780957)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yi, Liang. (2018). "2018 IEEE 4th International Conference on Computer and Communications (ICCC)".
