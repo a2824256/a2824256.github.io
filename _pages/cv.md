@@ -67,11 +67,11 @@ Skills
 
 Awards
 ======
-2016-2017 Beijing Institute of Technology & University of Central Lancashire first class scholarship
-2017-2018 Beijing Institute of Technology & University of Central Lancashire second class scholarship
+* 2016-2017 Beijing Institute of Technology & University of Central Lancashire first class scholarship
+* 2017-2018 Beijing Institute of Technology & University of Central Lancashire second class scholarship
 
 Certificates
 ======
-Intel FPGA Engineer (Entry Level) Certificate - ID FPGA012020524LY0011
+* Intel FPGA Engineer (Entry Level) Certificate - ID FPGA012020524LY0011
 <br/>
 <img src="https://a2824256.github.io/images/intel fpga engineer.jpg" width="534" height="377"/>
