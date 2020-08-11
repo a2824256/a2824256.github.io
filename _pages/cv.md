@@ -24,15 +24,20 @@ Work experience
 * Spring 2020 ~ Now: Research Assistant
   * AIRS([Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en/)), Shenzhen, China.
   * Department: RCUS(Research Center on Unmanned Systems Research Center)
-  * Duties included: Research on image instance segmentation algorithm and QT application development of automatic throat swab collection robot.
+  * Duties included: Research on image instance segmentation algorithm and pyqt application development.
   * Supervisor: Dr. Yongquan Chen
 
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
   * Shenzhen Zhixin Medical Biotechnology Co., Ltd, Shenzhen, China.
   * Department: Research and Development department
-  * Duties included: Qt application development of hand held endoscope.
+  * Duties included: Qt application development.
   * Supervisor: Mr. Wengang Wang
-  
+
+Project experience
+======
+* Convolutional Neural Network Accelerator - B.S. Graduation Project
+  * Introduction: 
+  * Works: 
   
 Skills
 ======
