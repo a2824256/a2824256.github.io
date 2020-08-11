@@ -28,7 +28,7 @@ Work experience
 
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
   * Shenzhen Zhixin Medical Biotechnology Co., Ltd, Shenzhen, China.
-  * Duties included: Qt application development of endoscope.
+  * Duties included: Qt application development of hand held endoscope.
   * Supervisor: Mr. Wengang Wang
   
   
