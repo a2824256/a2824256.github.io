@@ -34,14 +34,14 @@ Work experience
   * Duties included: Qt application development.
   * Supervisor: Mr. Wengang Wang
 
-Project experience
+Project
 ======
 * 
 * Convolutional Neural Network Accelerator - B.S. Graduation Project
-  * Works: Implementation of LeNet-5 Neural Network computing with C++ in vivado HLS. Then the connection structure of Xilinx zynq 7035 SOC is designed by Xilinx Vivado. Finally, use Soc's ARM(PS) module to control FPGA(PL) through block-level control protocol. The test images and weights are stored in the SD card. ARM reads and stores them in the public BRAM of Soc. When the FPGA starts, it first reads data from the public BRAM to the RAM inside the FPGA, and then starts the network for prediction.
   * Github:
-    * [HLS-LetNet](https://github.com/a2824256/HLS-LeNet)
-    * [LeNet-Weights-Exporter](https://github.com/a2824256/LeNet-Weights-Exporter)
+      * [HLS-LetNet](https://github.com/a2824256/HLS-LeNet)
+      * [LeNet-Weights-Exporter](https://github.com/a2824256/LeNet-Weights-Exporter)
+  * Works: Implementation of LeNet-5 Neural Network computing with C++ in vivado HLS. Then the connection structure of Xilinx zynq 7035 SOC is designed by Xilinx Vivado. Finally, use Soc's ARM(PS) module to control FPGA(PL) through block-level control protocol. The test images and weights are stored in the SD card. ARM reads and stores them in the public BRAM of Soc. When the FPGA starts, it first reads data from the public BRAM to the RAM inside the FPGA, and then starts the network for prediction.
   
   
 Skills
@@ -54,24 +54,24 @@ Skills
   * C/C++
   * Java
   * Php
-  * JavaScript
-  * HTML
-  * CSS
+  * JavaScript & HTML & CSS
   * Dart
+* Software Development Framework
+  * Thinkphp - Php web development framework.
+  * workerman - Php network communication framework.
+  * Qt&pyqt - C++ & Python Cross platform application framework.
+  * Flutter - Dart Cross (mobile) platform application framework.
 * Database
   * Mysql
   * Redis
 * Hardware Description Language 
   * VHDL
   * Verilog
-* Software Development Framework
-  * Thinkphp - Php web development framework.
-  * workerman - Php network communication framework.
-  * Qt&pyqt - C++ & Python Cross platform application framework.
-  * Flutter - Dart Cross (mobile) platform application framework.
+* Embedded development
+  * ARM Development(LL & Mbed)
+  * FPGA Development(Intel Quartus & Xilinx Vivado)
 * Other
   * UML
-  * Docker
   * Git
 
 Awards
