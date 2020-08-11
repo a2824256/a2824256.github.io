@@ -35,8 +35,13 @@ Work experience
 
 Project experience
 ======
+* 
 * Convolutional Neural Network Accelerator - B.S. Graduation Project
   * Works: Implementation of LeNet-5 Neural Network computing with C++ in vivado HLS. Then the connection structure of Xilinx zynq 7035 SOC is designed by Xilinx Vivado. Finally, use Soc's ARM(PS) module to control FPGA(PL) through block-level control protocol. The test images and weights are stored in the SD card. ARM reads and stores them in the public BRAM of Soc. When the FPGA starts, it first reads data from the public BRAM to the RAM inside the FPGA, and then starts the network for prediction.
+  * Github:
+    * [HLS-LetNet](https://github.com/a2824256/HLS-LeNet)
+    * [LeNet-Weights-Exporter](https://github.com/a2824256/LeNet-Weights-Exporter)
+  
   
 Skills
 ======
