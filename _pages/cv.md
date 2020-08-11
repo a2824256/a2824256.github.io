@@ -47,23 +47,21 @@ Project experience
 Skills
 ======
 * Deep Learning Framework
-  * TensorFlow
+  * TensorFlow & Keras
   * PaddlePaddle
 * Programing Language
   * Python
   * C/C++
-  * C#
+  * Java
   * Php
   * JavaScript
   * HTML
   * CSS
-  * SQL
   * Dart
-  * Java
 * Database
   * Mysql
   * Redis
-* Hardware Description Language
+* Hardware Description Language 
   * VHDL
   * Verilog
 * Software Development Framework
@@ -71,7 +69,6 @@ Skills
   * workerman - Php network communication framework.
   * Qt&pyqt - C++ & Python Cross platform application framework.
   * Flutter - Dart Cross (mobile) platform application framework.
-  * node.js - JavaScript runtime built on Chrome's V8 JavaScript engine. 
 * Other
   * UML
   * Docker
