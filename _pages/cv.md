@@ -24,7 +24,7 @@ Work experience
 * Spring 2020 ~ Now: Research Assistant
   * AIRS([Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en/)), Shenzhen, China.
   * Department: RCUS(Research Center on Unmanned Systems Research Center)
-  * Duties included: Research on image instance segmentation algorithm and QT application development.
+  * Duties included: Research on image instance segmentation algorithm and QT application development of automatic throat swab collection robot.
   * Supervisor: Dr. Yongquan Chen
 
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
