@@ -25,13 +25,15 @@ Work
 * Spring 2020 ~ Now: Research Assistant
   * AIRS([Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en/)), Shenzhen, China.
   * Department: RCUS(Research Center on Unmanned Systems Research Center)
+  * Group: Automatic throat swab collection robot & Unmanned Logistics System
   * Duties included: Research on image instance segmentation algorithm and pyqt application development.
   * Supervisor: Dr. Yongquan Chen
 
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
   * Shenzhen Zhixin Medical Biotechnology Co., Ltd, Shenzhen, China.
   * Department: Research and Development department
-  * Duties included: Qt application development of hand held endoscope.
+  * Group: Hand held endoscope
+  * Duties included: Qt application development.
   * Supervisor: Mr. Wengang Wang
 
 Open Source Project
@@ -47,7 +49,7 @@ Open Source Project
       * [HLS-LetNet](https://github.com/a2824256/HLS-LeNet)
       * [LeNet-Weights-Exporter](https://github.com/a2824256/LeNet-Weights-Exporter)
   * Works: Implementation of LeNet-5 Neural Network computing with C++ in vivado HLS. Then the connection structure of Xilinx ZYNQ 7035 SOC is designed by Xilinx Vivado. Finally, use Soc's ARM(PS) module to control FPGA(PL) through block-level control protocol. The test images and weights are stored in the SD card. ARM reads and stores them in the public BRAM of Soc. When the FPGA starts, it first reads data from the public BRAM to the RAM inside the FPGA, and then starts the network for prediction.
-  
+
   
 Skills
 ======
