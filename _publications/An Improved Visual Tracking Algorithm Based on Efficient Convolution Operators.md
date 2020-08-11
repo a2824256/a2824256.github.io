@@ -2,7 +2,7 @@
 title: "An Improved Visual Tracking Algorithm Based on Efficient Convolution Operators"
 collection: publications
 permalink: /publication/An Improved Visual Tracking Algorithm Based on Efficient Convolution Operators
-excerpt: 'Using FCN to replace the CNN part of eco to improve the segmentation ability.'
+excerpt: 'Using FCN to replace the CNN to improve the segmentation ability.'
 date: 2018-11-10
 venue: 'ICCC'
 paperurl: 'https://ieeexplore.ieee.org/document/8780957'
