@@ -73,5 +73,4 @@ Awards
 Certificates
 ======
 Intel FPGA China Innovation Center - FPGA Engineer (Entry Level) Certificate - ID FPGA012020524LY0011
-![FPGA Engineer](intel fpga engineer.jpg)
-  
+![FPGA Engineer](https://a2824256.github.io/images/intel fpga engineer.jpg)
