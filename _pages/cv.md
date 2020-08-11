@@ -11,17 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Engineering, University of Central Lancashire, 2019
+* B.S. in Electronic Engineering, University of Central Lancashire, Preston, the United Kingdom, 2019
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
 * Spring 2020 ~ Now: Research Assistant
-  * AIRS(Shenzhen Institute of Artificial Intelligence and Robotics for Society)
+  * AIRS(Shenzhen Institute of Artificial Intelligence and Robotics for Society), Shenzhen, China.
   * Duties included: Research on image instance segmentation algorithm and QT application development.
   * Supervisor: Dr. Yongquan Chen
 
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
-  * Shenzhen Zhixin Medical Biotechnology Co., Ltd
+  * Shenzhen Zhixin Medical Biotechnology Co., Ltd, Shenzhen, China.
   * Duties included: Qt application development of endoscope.
   * Supervisor: Mr. Wengang Wang
   
@@ -59,9 +65,13 @@ Skills
   * Docker
   * Git
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+2016-2017 Beijing Institute of Technology & University of Central Lancashire first class scholarship
+2017-2018 Beijing Institute of Technology & University of Central Lancashire second class scholarship
+
+Certificates
+======
+Intel FPGA China Innovation Center - FPGA Engineer (entry level) Certificate - ID FPGA012020524LY0011
+
   
