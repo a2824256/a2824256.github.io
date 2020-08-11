@@ -26,7 +26,7 @@ Work
   * AIRS([Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en/)), Shenzhen, China.
   * Department: RCUS(Research Center on Unmanned Systems Research Center)
   * Group: Automatic throat swab collection robot & Unmanned Logistics System
-  * Duties included: Research on image instance segmentation algorithm and pyqt application development.
+  * Duties included: Research on oral image instance segmentation algorithm and pyqt application development.
   * Supervisor: Dr. Yongquan Chen
 
 * Summer 2019 ~ Spring 2020: C++ Software Engineer
@@ -42,7 +42,7 @@ Open Source Project
   * Introduction: A multi person online data annotation system.
   * Github:
     * [LabelOwl](https://github.com/a2824256/LabelOwl)
-  * Works: This project uses the web front end Vue.js Framework, the server-side API is developed using PHP framework workman. The JSON format of the annotation file is consistent with labelme
+  * Works: This project uses the web front end Vue.js Framework, the server-side API is developed using PHP framework workerman. The JSON format of the annotation file is consistent with labelme
 * Convolutional Neural Network Accelerator - B.S. Graduation Project
   * Introduction: Implementation of classification network LeNet-5 using FPGA.
   * Github:
