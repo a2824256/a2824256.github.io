@@ -24,7 +24,7 @@ Work
 ======
 * Spring 2020 ~ Now: Research Assistant
   * AIRS([Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en/)), Shenzhen, China.
-  * Department: RCUS(Research Center on Unmanned Systems Research Center)
+  * Department: RCUS(Research Center on Unmanned Systems)
   * Group: Automatic throat swab collection robot & Unmanned Logistics System
   * Duties included: Research on oral image instance segmentation algorithm and pyqt application development.
   * Supervisor: Dr. Yongquan Chen
