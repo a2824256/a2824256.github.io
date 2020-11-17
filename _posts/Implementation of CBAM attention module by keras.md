@@ -7,7 +7,8 @@ tags:
   - cbam
   - DL
 ---
-
+CBAM(Convolutional Block Attention Module) has two sub attention module, CAM and SAM.
+<img src="./images/cbam.png"/>
 ```python
 import numpy as np
 import tensorflow as tf
