@@ -5,7 +5,7 @@ permalink: /publication/Imitation Learning for Robot-assisted Minimally Invasive
 excerpt:
 date: 2020-08-10
 venue: 'IEEE IROS 2020 Workshop: Autonomous System in Medicine: Current Challenges in Design, Modeling, Perception, Control and Applications (2020IROSASM)'
-citation: 'Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Mingchuan Zhou, Mingyue Feng, Alois Knoll. (2020). &quot;Imitation Learning for Robot-assisted Minimally Invasive Surgery with Kernelized Movement Primitives.&quot; <i>IEEE IROS 2020 Workshop: Autonomous System in Medicine: Current Challenges in Design, Modeling, Perception, Control and Applications (2020IROSASM)</i>. '
+citation: 'Yingbai Hu, <b>Yi Liang</b>, Longbin Zhang, Wenrui Wu, Mingchuan Zhou, Mingyue Feng, Alois Knoll. (2020). &quot;Imitation Learning for Robot-assisted Minimally Invasive Surgery with Kernelized Movement Primitives.&quot; <i>IEEE IROS 2020 Workshop: Autonomous System in Medicine: Current Challenges in Design, Modeling, Perception, Control and Applications (2020IROSASM)</i>. '
 ---
 The complexity of surgical operation can be released significantly if surgical robots can learn the manipulation
 skills by imitation from complex tasks demonstrations such as
