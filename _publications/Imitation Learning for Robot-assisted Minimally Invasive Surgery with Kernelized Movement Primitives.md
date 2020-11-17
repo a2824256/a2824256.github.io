@@ -16,5 +16,3 @@ facilitates the learning and trial phase performed offline, which
 reduces the risks and cost for the practical surgical operation.
 Finally, it is demonstrated by transferring manipulation skills
 for reaching and puncturing.
-
-Recommended citation: Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Mingchuan Zhou, Mingyue Feng, Alois Knoll. (2020). "IEEE IROS 2020 Workshop: Autonomous System in Medicine: Current Challenges in Design, Modeling, Perception, Control and Applications (2020IROSASM)".

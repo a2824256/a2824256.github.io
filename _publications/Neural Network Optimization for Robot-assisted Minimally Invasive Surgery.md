@@ -16,5 +16,3 @@ effectiveness of the proposed control strategy is demonstrated
 with experimental results. The results show that the proposed
 NN-based method can optimal multi-constraints at the same
 time and have good performance.
-
-Recommended citation: Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Alois Knol. (2020). " IEEE RO-MAN 2020 Workshop: Integrating Sensor Fusion and Perception for Human-robot Interaction (2020ROMANHRI)".
