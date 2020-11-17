@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Engineering, University of Central Lancashire, Preston, the United Kingdom, 2019
+* BEng in Electronic Engineering, University of Central Lancashire, Preston, the United Kingdom, 2019
 
 Publications
 ======
