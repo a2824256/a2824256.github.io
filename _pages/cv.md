@@ -57,6 +57,7 @@ Awards
 
 Certificates
 ======
-* Intel FPGA Engineer (Entry Level) Certificate - ID FPGA012020524LY0011
+* Intel FPGA Engineer (Entry Level) Certificate - Intel FPGA China Innovation Center
 <br/>
 <img src="https://a2824256.github.io/images/intel fpga engineer.jpg" width="534" height="377"/>
+* Fundamentals of Accelerated Computing with CUDA Python - NVIDIA Deep Learning Institute
