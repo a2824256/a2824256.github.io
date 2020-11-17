@@ -1,12 +1,13 @@
 ---
 title: 'Implementation of CBAM attention module by keras'
 date: 2020-09-23
-permalink: /posts/2020/09/Implementation of CBAM attention module by keras/
+permalink: /posts/2020/09/Implementation_of_CBAM_attention_module_by_keras/
 tags:
   - keras
   - cbam
   - DL
 ---
+
 CBAM(Convolutional Block Attention Module) has two sub attention module, CAM and SAM.
 <img src="./images/cbam.png"/>
 ```python
