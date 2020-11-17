@@ -2,18 +2,19 @@
 title: "Neural Network Optimization for Robot-assisted Minimally Invasive Surgery"
 collection: publications
 permalink: /publication/Neural Network Optimization for Robot-assisted Minimally Invasive Surgery
-date: 2020-08-10
-venue: '2020ROMANHRI (IEEE RO-MAN 2020)'
-citation: 'Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Alois Knol. (2020). &quot;Neural Network Optimization for Robot-assisted Minimally Invasive Surgery.&quot; <i>2018 IEEE 4th International Conference on Computer and Communications (ICCC)</i>. '
+excerpt:
+date: 2020-09-23
+venue: ' IEEE RO-MAN 2020 Workshop: Integrating Sensor Fusion and Perception for Human-robot Interaction (2020ROMANHRI)'
+citation: 'Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Alois Knol. (2020). &quot;Neural Network Optimization for Robot-assisted Minimally Invasive Surgery.&quot; <i> IEEE RO-MAN 2020 Workshop: Integrating Sensor Fusion and Perception for Human-robot Interaction (2020ROMANHRI)</i>. '
 ---
-The complexity of surgical operation can be released significantly if surgical robots can learn the manipulation
-skills by imitation from complex tasks demonstrations such as
-suturing, puncture, and knotting, etc.. This paper proposes a
-Kernelized Movement Primitives (KMP) based manipulation
-skill transferring technique for robot-assisted Minimally Invasive Surgery from human demonstrations. This approach
-facilitates the learning and trial phase performed offline, which
-reduces the risks and cost for the practical surgical operation.
-Finally, it is demonstrated by transferring manipulation skills
-for reaching and puncturing.
+This paper proposes a neural network (NN) based
+hierarchical control of a 7-DoF robot manipulator for RobotAssisted Minimally Invasive Surgery (RAMIS), which at the
+same time guarantees task tracking, manipulability index,
+Remote Center of Motion (RCM). A theoretically grounded hierarchical control law based on neural network is introduced to
+control multiple constraints based on their priority. Finally, the
+effectiveness of the proposed control strategy is demonstrated
+with experimental results. The results show that the proposed
+NN-based method can optimal multi-constraints at the same
+time and have good performance.
 
-Recommended citation: Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Alois Knol. (2020). "2020ROMANHRI (IEEE RO-MAN 2020)".
+Recommended citation: Yingbai Hu, Yi Liang, Longbin Zhang, Wenrui Wu, Alois Knol. (2020). " IEEE RO-MAN 2020 Workshop: Integrating Sensor Fusion and Perception for Human-robot Interaction (2020ROMANHRI)".
