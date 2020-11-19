@@ -7,4 +7,6 @@ collection: portfolio
 <br/>
 <img style='max-width:80%;height:auto;' src='/images/label.png'>
 <br/>
+<img style='max-width:80%;height:auto;' src='/images/infer.jpg'>
+<br/>
 <img style='max-width:60%;height:auto;' src='/images/baibot2.jpg'>
